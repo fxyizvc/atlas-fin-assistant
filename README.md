@@ -700,7 +700,7 @@ MIT License
 
 Computer Science & Engineering
 
-GitHub: `YOUR_GITHUB_USERNAME`
+GitHub: `fxyizvc`
 
 ---
 
